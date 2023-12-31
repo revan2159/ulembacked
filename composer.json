@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2.11",
         "firebase/php-jwt": "^6.3",
         "kamu/framework": "^3.1.0",
         "ramsey/uuid": "^4.7"
